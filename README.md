@@ -1,1 +1,1 @@
-# mini-poject
+# mini-project
